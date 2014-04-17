@@ -1,0 +1,7 @@
+.DS_Store
+dist/*
+build/*
+*~
+bin/*
+*.prefs
+gen/*

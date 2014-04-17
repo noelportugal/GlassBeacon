@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GlassBeacon</string>
+    <string name="glass_voice_trigger">beacon service</string>
+    <string name="glass_voice_prompt">start or stop?</string>
+</resources>
